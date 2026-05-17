@@ -56,7 +56,7 @@ Agricultural pest detection and analysis system aimed at improving crop protecti
 ## 🌐 Connect With Me
 
 ```text
-GitHub   : https://github.com/yourusername
-LinkedIn : https://linkedin.com/in/yourprofile
+GitHub   : https://github.com/darshan766
+LinkedIn : www.linkedin.com/in/darshan-p-4943492a2
 Portfolio: https://yourportfolio.com
 Email    : darshanhareesh@gmail.com
